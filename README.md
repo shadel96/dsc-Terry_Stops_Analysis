@@ -8,7 +8,7 @@ Recent tensions in the United States have led to a mistrust of police forces acr
 
 One such disparity has been observed in Terry Stops (also known as 'stop-and-frisks'), when a police officer uses theur right to legally temporarily detain a person based on 'reasonable suspsicion' that the person may be involved in criminal activity. The officer has the right to physically 'frisk' the subject, and take whatever action they feel is necessary properly handle the situation.
 
-This is an indpendent preliminary investigation generally into the Seattle police department's record keeping of Terry Stops, and more specifically whether there is an identifiable connection between the identified races of the subjects and officers in question, and what the outcome of that Terry Stop is.
+This is an independent preliminary investigation generally into the Seattle police department's record keeping of Terry Stops, and more specifically whether there is an identifiable connection between the identified races of the subjects and officers in question, and what the outcome of that Terry Stop is.
 
 
 ## Data
@@ -54,7 +54,7 @@ The early stages of this analysis when visualizing the data before modeling, sho
 
 ![](./img/price_distribution.png)
 
-Howver, the initial target variable, 'Physical_Arrest', was challenging for the classification algorithms to predict with much efficiency. Nonetheless, futher steps were taken to improve these models, by attempting to tune their hyperparamaters.
+However, the initial target variable, 'Physical_Arrest', was challenging for the classification algorithms to predict with much efficiency. Nonetheless, futher steps were taken to improve these models, by attempting to tune their hyperparamaters.
 
 Finally, Machine Learning Pipelines were used to test different target variables from the data. These had mroe success than the previous, but still lacked results to make confident or impactful statements, for the time being.
 
